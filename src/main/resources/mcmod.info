@@ -1,0 +1,16 @@
+[
+{
+  "modid": "razed",
+  "name": "Razed",
+  "description": "A mod that sets the world in the immediate aftermath of a civilization-ending war.",
+  "version": "0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vær"],
+  "credits": "HBMMinecraft, for all his support and help",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
